@@ -544,6 +544,14 @@
     "did": "did:plc:jqofpedwjthenf6a2l3d7smh"
   },
   {
+    "title": "Vincent Baaij",
+    "category": "dev",
+    "bluesky": "baaijte.net",
+    "twitter": "https://bsky.app/profile/baaijte.net",
+    "type": "microsoft",
+    "did": "did:plc:nflxy2vpdfe5iauiiz2hk2j7"
+  },
+  {
     "title": "Fabian Bader",
     "category": "security",
     "bluesky": "bader.cloud",
