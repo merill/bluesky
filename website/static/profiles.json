@@ -2496,6 +2496,14 @@
     "did": "did:plc:ttcvu32prgqg7hglyye6doys"
   },
   {
+    "title": "Jan Vidar Elven",
+    "category": "security",
+    "bluesky": "jan.vidar.elven.no",
+    "twitter": "janvidarelven",
+    "type": "mvp",
+    "did": "did:plc:s2fabivjnh7maq4qijscu6sr"
+  },
+  {
     "title": "Jan de Groot",
     "category": null,
     "bluesky": "jandg.bsky.social",
