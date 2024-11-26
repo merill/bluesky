@@ -2192,6 +2192,14 @@
     "did": "did:plc:fxipo3ogt5nrxjddervd4hxa"
   },
   {
+    "title": "Henk Boelman",
+    "category": "ai",
+    "bluesky": "hboelman.bsky.social",
+    "twitter": "hboelman",
+    "type": "microsoft",
+    "did": "did:plc:kfv33on43ns5qkcunenzn3rh"
+  },
+  {
     "title": "Christian Ritter | MVP",
     "category": "powershell",
     "bluesky": "hcritter.bsky.social",
