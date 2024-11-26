@@ -1072,6 +1072,14 @@
     "did": "did:plc:edwj5m4dvrufn3dmn4al7wg3"
   },
   {
+    "title": "Chris Pietschmann",
+    "category": "azure",
+    "bluesky": "crpietschmann.bsky.social",
+    "twitter": "",
+    "type": "mvp",
+    "did": "did:plc:je5irhgu3zrt3behljtg72pg"
+  },
+  {
     "title": "CSLA .NET",
     "category": null,
     "bluesky": "cslanet.bsky.social",
