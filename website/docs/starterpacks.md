@@ -35,6 +35,9 @@ Feel free to create your own starter pack and submit a pull request to add it to
 * [Azure Bicep Starter Pack 💪](https://bsky.app/starter-pack/did:plc:r5lyfzjttxjngj3ifcxidgbf/3laoclx5ddm2q) - Community of people sharing information and discussions focused on Microsoft Azure Bicep 💪 #azurebicep
 * [SQL People #1](https://bsky.app/starter-pack-short/PxShiuH) + [SQL People #2](https://bsky.app/starter-pack-short/FuwcAQA) - This is a collection of people in the SQL space.
 
+## Workspace
+* [AVD & Windows 365]([https://bsky.app/starter-pack-short/6VGtaiG](https://go.bsky.app/ADoAV9G)) - List of people talking about Azure Virtual Desktop and Windows 365
+
 ## Microsoft 365
 
 * [Microsoft Modern Work](https://bsky.app/starter-pack-short/AJvRb9R) - Add this Starter Pack to fill your feed with great tech content about Microsoft 365.
