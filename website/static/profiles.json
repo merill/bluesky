@@ -4664,6 +4664,14 @@
     "did": "did:plc:fgu4uqce5ojngrvvrvfayia7"
   },
   {
+    "title": "Peter Paul Kirschner",
+    "category": "microsoft365",
+    "bluesky": "petkir.bsky.social",
+    "twitter": "petkir_at",
+    "type": "mvp",
+    "did": "did:plc:rvzhreqxzucgrftxysjitzhp"
+  },
+  {
     "title": "Petri Paavola - MVP",
     "category": "intune",
     "bluesky": "petripaavola.bsky.social",
