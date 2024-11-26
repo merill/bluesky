@@ -6048,6 +6048,14 @@
     "did": "did:plc:3rbs2ol7robzxtqgs44ewnny"
   },
   {
+    "title": "Tiberiu Radu",
+    "category": "azure",
+    "bluesky": "tibi.hybridby.design",
+    "twitter": "",
+    "type": "microsoft",
+    "did": "did:plc:7hpeybvqeo7g4inhls5gmeds"
+  },
+  {
     "title": "Tim Deschryver",
     "category": "dotnet",
     "bluesky": "timdeschryver.dev",
