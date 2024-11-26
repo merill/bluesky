@@ -2048,6 +2048,14 @@
     "did": "did:plc:nxej6isv6g23rqagcxvkos7c"
   },
   {
+    "title": "Jason Geffner",
+    "category": "security",
+    "bluesky": "geffner.bsky.social",
+    "twitter": "jasongeffner",
+    "type": "microsoft",
+    "did": "did:plc:mhsld56vxykdzyn5dwmjtzer"
+  },
+  {
     "title": "George Coldham",
     "category": "security",
     "bluesky": "george.coldham.com.au",
@@ -4126,6 +4134,14 @@
     "twitter": "marciton",
     "type": "microsoft",
     "did": "did:plc:4nj7qdmnrqhtbr5cpxdqqzqi"
+  },
+  {
+    "title": "Moaid Hathot",
+    "category": "dotnet",
+    "bluesky": "moaid.bsky.social",
+    "twitter": "moaidhathot",
+    "type": "microsoft",
+    "did": "did:plc:yha7bk5bwo7dsinsfjzo6ty5"
   },
   {
     "title": "Mobile Jon",
