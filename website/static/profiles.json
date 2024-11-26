@@ -1834,7 +1834,7 @@
   {
     "title": "Michaël Hompus",
     "category": "dotnet",
-    "bluesky": "energy164.bsky.social",
+    "bluesky": "energy164.online",
     "twitter": "energy164",
     "type": "mvp",
     "did": "did:plc:ooktd4yhqmilhrrlazp5fmwr"
@@ -2418,7 +2418,7 @@
   {
     "title": "IntuneStuff - Joery Van den Bosch - Microsoft MVP",
     "category": "intune",
-    "bluesky": "intunestuff.bsky.social",
+    "bluesky": "intunestuff.com",
     "twitter": "intunestuff",
     "type": "mvp",
     "did": "did:plc:tynyii2sayncj3y7pabnac7v"
@@ -2910,6 +2910,14 @@
     "twitter": "",
     "type": "None",
     "did": "did:plc:zea7wubyosyb5wpclkhgwjtz"
+  },
+  {
+    "title": "John Skeet",
+    "category": "dev",
+    "bluesky": "jonskeet.uk",
+    "twitter": "jonskeet",
+    "type": "mvp",
+    "did": "did:plc:o4sofmcef5rjx2proeebt7j6"
   },
   {
     "title": "Joonas Westlin",
@@ -3874,7 +3882,7 @@
   {
     "title": "Matt Krause",
     "category": "microsoft365",
-    "bluesky": "mattckrause.bsky.social",
+    "bluesky": "mattckrause.com",
     "twitter": "",
     "type": "microsoft",
     "did": "did:plc:77psfpbzk5pirpvv7uphdfw5"
@@ -4850,14 +4858,6 @@
   {
     "title": "Michael Plettner",
     "category": "microsoft365",
-    "bluesky": "plemich.bsky.social",
-    "twitter": "plemich",
-    "type": "mvp",
-    "did": "did:plc:nebmw5jddeboex6zcjrq2zu2"
-  },
-  {
-    "title": "Add Michael Plettner - changed profile",
-    "category": "microsoft365",
     "bluesky": "plemich.io",
     "twitter": "plemich",
     "type": "mvp",
@@ -5394,14 +5394,6 @@
   {
     "title": "Sascha Stumpler",
     "category": null,
-    "bluesky": "sasstu.bsky.social",
-    "twitter": "sasstu",
-    "type": "None",
-    "did": "did:plc:eo3xypqu7mvivcyl4frzck4m"
-  },
-  {
-    "title": "Sascha ",
-    "category": null,
     "bluesky": "sastu-insights.com",
     "twitter": "sasstu",
     "type": "None",
@@ -5522,7 +5514,7 @@
   {
     "title": "Sébastien Levert",
     "category": "ai",
-    "bluesky": "sebastienlevert.bsky.social",
+    "bluesky": "sebastienlevert.com",
     "twitter": "sebastienlevert",
     "type": "microsoft",
     "did": "did:plc:sswjk3m6nofdvbwbdonwcihq"
