@@ -4496,6 +4496,14 @@
     "did": "did:plc:rjxcmdvu3hwtziiuejp55jyq"
   },
   {
+    "title": "John Papa",
+    "category": "dev",
+    "bluesky": "papa.dev",
+    "twitter": "john_papa",
+    "type": "microsoft",
+    "did": "did:plc:arfcmlzoxr6si47iwgnxqo7a"
+  },
+  {
     "title": "Stefan Riedel",
     "category": "businessapps",
     "bluesky": "papariedel.bsky.social",
