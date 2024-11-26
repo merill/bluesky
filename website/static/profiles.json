@@ -800,6 +800,14 @@
     "did": "did:plc:olxz2uwh2tywglvskunwxog4"
   },
   {
+    "title": "Build5Nines",
+    "category": "azure",
+    "bluesky": "build5nines.bsky.social",
+    "twitter": "build5nines",
+    "type": "mvp",
+    "did": "did:plc:c6txotc76ioovefs2trey5rq"
+  },
+  {
     "title": "Torren Manson",
     "category": "microsoft365",
     "bluesky": "bumpinthenet.bsky.social",
