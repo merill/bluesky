@@ -296,6 +296,14 @@
     "did": "did:plc:dmkucn7erri4ypuxz2533ckl"
   },
   {
+    "title": "Andrea Dottor",
+    "category": "dotnet",
+    "bluesky": "andrea.dottor.net",
+    "twitter": "@dottor",
+    "type": "mvp",
+    "did": "did:plc:q6xa65tgwc5frkz4qymfy4m2"
+  },
+  {
     "title": "Andres Bohren",
     "category": null,
     "bluesky": "andresbohren.bsky.social",
