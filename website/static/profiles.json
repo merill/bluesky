@@ -80,6 +80,14 @@
     "did": "did:plc:fotpikp4szwpfp4bnnfxhxfa"
   },
   {
+    "title": "Adam ralph",
+    "category": "dotnet",
+    "bluesky": "adamralph.com",
+    "twitter": "adamralph",
+    "type": "mvp",
+    "did": "did:plc:b7lygybc2nu5jmanizq5blcu"
+  },
+  {
     "title": "Michael Washington",
     "category": "dotnet",
     "bluesky": "adefwebserver.com",
@@ -4110,6 +4118,14 @@
     "twitter": "@michellaplane",
     "type": "mvp",
     "did": "did:plc:4b347dxmhq4wcmpxituaaqah"
+  },
+  {
+    "title": "Michiel Lankamp",
+    "category": null,
+    "bluesky": "michiel.c-hekje.nl",
+    "twitter": "michiellankamp",
+    "type": "None",
+    "did": "did:plc:fjh5jmylt2q47cgdvl7ecgo7"
   },
   {
     "title": "Michal Strehovsky",
