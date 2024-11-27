@@ -36,7 +36,8 @@ Feel free to create your own starter pack and submit a pull request to add it to
 * [SQL People #1](https://bsky.app/starter-pack-short/PxShiuH) + [SQL People #2](https://bsky.app/starter-pack-short/FuwcAQA) - This is a collection of people in the SQL space.
 
 ## Workspace
-* [AVD & Windows 365]([https://bsky.app/starter-pack-short/6VGtaiG](https://go.bsky.app/ADoAV9G)) - List of people talking about Azure Virtual Desktop and Windows 365
+
+* [AVD & Windows 365](https://go.bsky.app/ADoAV9G) - Started pack containing people who love to share and/or are working with Azure Virtual Desktop!
 
 ## Microsoft 365
 
