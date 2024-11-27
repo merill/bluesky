@@ -2928,6 +2928,14 @@
     "did": "did:plc:srp2qyu2cn65outfruez2fof"
   },
   {
+    "title": "JonnyD",
+    "category": "azure",
+    "bluesky": "jonnyd.bsky.social",
+    "twitter": "",
+    "type": "microsoft",
+    "did": "did:plc:r66tbmwp3vur3ql2stfq5o65"
+  },
+  {
     "title": "Jon Sagara",
     "category": null,
     "bluesky": "jonsagara.com",
