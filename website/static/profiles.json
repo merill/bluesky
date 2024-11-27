@@ -5704,6 +5704,14 @@
     "did": "did:plc:7gycz2pqrqnmwy7jm7nuomq3"
   },
   {
+    "title": "Scott Schnoll",
+    "category": null,
+    "bluesky": "schnoll.bsky.social",
+    "twitter": "schnoll",
+    "type": "microsoft",
+    "did": "did:plc:sa2tjdig6niwsbvjrsnu6nz6"
+  },
+  {
     "title": "Matt Schultz",
     "category": "microsoft365",
     "bluesky": "schumatt.com",
