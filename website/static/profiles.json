@@ -5272,6 +5272,14 @@
     "did": "did:plc:lg2hjf5aqgnvwg4dorjrivxd"
   },
   {
+    "title": "Roel Schellens",
+    "category": "windows365",
+    "bluesky": "roelau.bsky.social",
+    "twitter": "roelschellens",
+    "type": "microsoft",
+    "did": "did:plc:qpuw7k5u67gg2xv54w5gtuef"
+  },
+  {
     "title": "Rogier Dijkman",
     "category": "dev",
     "bluesky": "rogierdijkman.bsky.social",
