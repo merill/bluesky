@@ -3736,6 +3736,14 @@
     "did": "did:plc:oxa3utdgqy5uk3ca3iqowtvs"
   },
   {
+    "title": "Dade Cook",
+    "category": null,
+    "bluesky": "madebydade.dev",
+    "twitter": "",
+    "type": "microsoft",
+    "did": "did:plc:im5ma2ca4d3sluqhsbcosjti"
+  },
+  {
     "title": "Martina Grom",
     "category": "microsoft365",
     "bluesky": "magrom.bsky.social",
