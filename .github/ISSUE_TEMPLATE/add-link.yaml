@@ -57,6 +57,7 @@ body:
         - security
         - windows
         - windows365
+        - exchange
     validations:
       required: false
   - type: dropdown
