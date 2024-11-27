@@ -720,6 +720,14 @@
     "did": "did:plc:i3wsjzpo7sjlvpacnf6fbt3v"
   },
   {
+    "title": "Beth Massi",
+    "category": "dotnet",
+    "bluesky": "bethmassi.net",
+    "twitter": "bethmassi",
+    "type": "microsoft",
+    "did": "did:plc:cltmoaayfkadzxijjjlymere"
+  },
+  {
     "title": "Betsy Weber",
     "category": null,
     "bluesky": "betsyweber.bsky.social",
