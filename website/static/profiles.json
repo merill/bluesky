@@ -5896,6 +5896,14 @@
     "did": "did:plc:x33ezsuhroqi7scobjid5wtj"
   },
   {
+    "title": "Eugene Meidinger",
+    "category": "data",
+    "bluesky": "sqlgene.com",
+    "twitter": "sqlgene",
+    "type": "mvp",
+    "did": "did:plc:xehlvfkrzauq2jfm2atacezc"
+  },
+  {
     "title": "Nico Jacobs",
     "category": null,
     "bluesky": "sqlwaldorf.bsky.social",
