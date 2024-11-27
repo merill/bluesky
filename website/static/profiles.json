@@ -4912,6 +4912,14 @@
     "did": "did:plc:w6r6xeqqx3w3ybc2nkb3kmbg"
   },
   {
+    "title": "Philip Welz",
+    "category": "azure",
+    "bluesky": "philipwelz.cloud",
+    "twitter": "philwelz",
+    "type": "mvp",
+    "did": "did:plc:3w3gjcl3cgcduq7tphjvntlh"
+  },
+  {
     "title": "Pierre Thoor",
     "category": "security",
     "bluesky": "pierrethoor.bsky.social",
