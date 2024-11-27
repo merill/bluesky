@@ -4480,6 +4480,14 @@
     "did": "did:plc:uwe6qbcbuumnz4kke33qqwi2"
   },
   {
+    "title": "Niels Tanis",
+    "category": "security",
+    "bluesky": "niels.fennec.dev",
+    "twitter": "",
+    "type": "mvp",
+    "did": "did:plc:zulb57ko6d2lcboc33xnxfuz"
+  },
+  {
     "title": "Niels Stubbe",
     "category": null,
     "bluesky": "nielsstubbe.bsky.social",
