@@ -1936,6 +1936,14 @@
     "did": "did:plc:awqkcefrfohiy7nij2rcofwr"
   },
   {
+    "title": "Eric Berg",
+    "category": "azure",
+    "bluesky": "ericberg.de",
+    "twitter": "ericberg_de",
+    "type": "mvp",
+    "did": "did:plc:ll6odguajjcpt3j77gs2xqsx"
+  },
+  {
     "title": "Eric Lawrence",
     "category": "security",
     "bluesky": "ericlaw.bsky.social",
