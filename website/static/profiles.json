@@ -1544,6 +1544,14 @@
     "did": "did:plc:mukkhzcndwdnbtax4i6nwzfs"
   },
   {
+    "title": "Dirk Lemstra",
+    "category": "dev",
+    "bluesky": "dirk.lemstra.org",
+    "twitter": "magicknet",
+    "type": "mvp",
+    "did": "did:plc:o5tnat447itstzitmtds4asx"
+  },
+  {
     "title": "Johnny Hooyberghs",
     "category": "dotnet",
     "bluesky": "djohnnie.bsky.social",
