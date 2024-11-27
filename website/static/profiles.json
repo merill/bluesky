@@ -2424,6 +2424,14 @@
     "did": "did:plc:mbigfnx5uw3cjveadggsqu5d"
   },
   {
+    "title": "Iker Beristain Villar",
+    "category": "windows365",
+    "bluesky": "ikerberis.bsky.social",
+    "twitter": "ikerberis",
+    "type": "microsoft",
+    "did": "did:plc:jqn63se4y6fogik27ekvt6ww"
+  },
+  {
     "title": "Michele Sensalari",
     "category": "security",
     "bluesky": "ilsensa7.bsky.social",
