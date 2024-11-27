@@ -2928,6 +2928,14 @@
     "did": "did:plc:chup6jol3io453bs7xjxtnh5"
   },
   {
+    "title": "Jon Galloway",
+    "category": "dotnet",
+    "bluesky": "jongalloway.bsky.social",
+    "twitter": "jongalloway",
+    "type": "microsoft",
+    "did": "did:plc:vhmuafevcunvtcvitxh37ixc"
+  },
+  {
     "title": "Jon Hilton",
     "category": null,
     "bluesky": "jonhilton.net",
