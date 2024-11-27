@@ -4448,6 +4448,14 @@
     "did": "did:plc:bu2inrigvsewj5fbunudbqxg"
   },
   {
+    "title": "Microsoft Exchange",
+    "category": null,
+    "bluesky": "msftexchange.bsky.social",
+    "twitter": "msftexchange",
+    "type": "microsoft",
+    "did": "did:plc:w2l4auh6itwvexla4jq6gpoe"
+  },
+  {
     "title": "Marco Siccardi",
     "category": null,
     "bluesky": "msicc.bsky.social",
