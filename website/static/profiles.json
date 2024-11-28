@@ -2064,6 +2064,14 @@
     "did": "did:plc:35w4kflqwtmgl3jwqk7qdpwa"
   },
   {
+    "title": "Freek Berson",
+    "category": "azure",
+    "bluesky": "fberson.bsky.social",
+    "twitter": "fberson",
+    "type": "mvp",
+    "did": "did:plc:mxw4gdzh64knoh2xkekuzlyg"
+  },
+  {
     "title": "Federico Porceddu",
     "category": "microsoft365",
     "bluesky": "federicoporceddu.bsky.social",
