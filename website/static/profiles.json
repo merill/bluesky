@@ -904,6 +904,14 @@
     "did": "did:plc:2xpj4rj7haxq2qzrhq5pfgr7"
   },
   {
+    "title": "Cameron Aavik",
+    "category": "dotnet",
+    "bluesky": "cameron-aavik.dev",
+    "twitter": "cameronaavik",
+    "type": "microsoft",
+    "did": "did:plc:lf25eujft2ujnhpbm655aq33"
+  },
+  {
     "title": "Cam Murray",
     "category": "security",
     "bluesky": "cammurr.bsky.social",
