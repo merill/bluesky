@@ -1120,6 +1120,14 @@
     "did": "did:plc:iias7ig4uth2thz52wcqdgwd"
   },
   {
+    "title": "Kevin Griffin",
+    "category": "dev",
+    "bluesky": "consultwithgriff.com",
+    "twitter": "1kevgriff",
+    "type": "mvp",
+    "did": "did:plc:3qgcxxuqrih6v3lvj54kbvoj"
+  },
+  {
     "title": "Cory Gehr",
     "category": "security",
     "bluesky": "corygehr.com",
