@@ -2848,6 +2848,14 @@
     "did": "did:plc:lxjy3ojtsb6cbdlfeuuja4tc"
   },
   {
+    "title": "Jason Taylor",
+    "category": "dev",
+    "bluesky": "jasontaylordev.bsky.social",
+    "twitter": "jasontaylordev",
+    "type": "mvp",
+    "did": "did:plc:a4oir2ctulqsujcgdjjpmyvj"
+  },
+  {
     "title": "Jason Tenpenny",
     "category": "azure",
     "bluesky": "jasontenpenny.com",
