@@ -600,6 +600,14 @@
     "did": "did:plc:jqofpedwjthenf6a2l3d7smh"
   },
   {
+    "title": "Barbara Forbes",
+    "category": "azure",
+    "bluesky": "ba.4bes.nl",
+    "twitter": "ba4bes",
+    "type": "mvp",
+    "did": "did:plc:vwa5bvum5fn7wlcgllpnsj2p"
+  },
+  {
     "title": "Vincent Baaij",
     "category": "dev",
     "bluesky": "baaijte.net",
