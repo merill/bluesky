@@ -6432,6 +6432,14 @@
     "did": "did:plc:su43vue6uh56afu4cbu7wces"
   },
   {
+    "title": "sweatonfeet.bsky.social",
+    "category": "intune",
+    "bluesky": "sweatonfeet.bsky.social",
+    "twitter": "@sweatonfeet",
+    "type": "microsoft",
+    "did": "did:plc:2teyj5vzuebx4bwblcr7jd2x"
+  },
+  {
     "title": "Sebastian Werner",
     "category": "intune",
     "bluesky": "swerner.bsky.social",
