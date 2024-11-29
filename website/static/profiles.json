@@ -6296,6 +6296,14 @@
     "did": "did:plc:aqrgi357dwvk42ubrggk73et"
   },
   {
+    "title": "Steve Gordon",
+    "category": "dotnet",
+    "bluesky": "stevejgordon.bsky.social",
+    "twitter": "stevejgordon",
+    "type": "mvp",
+    "did": "did:plc:bhyqi2gznqmwnl6el36ce7do"
+  },
+  {
     "title": "Steve Knutson",
     "category": "microsoft365",
     "bluesky": "steveknutson.bsky.social",
