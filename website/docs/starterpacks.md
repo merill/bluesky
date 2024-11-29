@@ -20,6 +20,7 @@ Feel free to create your own starter pack and submit a pull request to add it to
 * [Microsoft PM](https://bsky.app/starter-pack-short/RCvJNV5) - Find your Microsoft PM (Product/Program Manager)
 * [GitHub Stars](https://bsky.app/starter-pack-short/8GjVoVQ) - Starter Pack with 35 of 77 current GitHub Stars. https://stars.github.com/profiles/
 * [Norske Microsoft MVPer 🤓](https://bsky.app/starter-pack-short/L4E6Yi6) - Finn og følg norske Microsoft Most Valuable Professionals!
+* [Microsoft MVPs Switzerland](https://bsky.app/starter-pack-short/BksPrpM) - Starter pack with current and former Microsoft MVPs from Switzerland
 
 ## Dev
 
