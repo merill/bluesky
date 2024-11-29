@@ -6568,6 +6568,14 @@
     "did": "did:plc:bl33zi44lrxjzew4bzv3gsg2"
   },
   {
+    "title": "Thorsten Hans",
+    "category": "azure",
+    "bluesky": "thorstenhans.bsky.social",
+    "twitter": "thorstenhans",
+    "type": "mvp",
+    "did": "did:plc:li3ldt57azxs3ngry74tvor2"
+  },
+  {
     "title": "Tiago Costa",
     "category": null,
     "bluesky": "tiagocosta.bsky.social",
