@@ -5736,6 +5736,14 @@
     "did": "did:plc:n5zdxzzelmg7g22ebweczura"
   },
   {
+    "title": "Sam Alavi",
+    "category": "azure",
+    "bluesky": "samalavi.bsky.social",
+    "twitter": "alavisam",
+    "type": "mvp",
+    "did": "did:plc:q24hp37imovodrsde4tkt2ts"
+  },
+  {
     "title": "Sam Erde",
     "category": "general",
     "bluesky": "samerde.day3bits.com",
