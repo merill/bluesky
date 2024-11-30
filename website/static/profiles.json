@@ -4312,6 +4312,14 @@
     "did": "did:plc:m3p5j3o66yghzlkbwnbgmcsi"
   },
   {
+    "title": "Merrie McGaw",
+    "category": "dotnet",
+    "bluesky": "merriemcgaw.bsky.social",
+    "twitter": "@merriemcgaw",
+    "type": "microsoft",
+    "did": "did:plc:t3yrezpfsotf5odizahregq3"
+  },
+  {
     "title": "Mert Yeter",
     "category": "ai",
     "bluesky": "mertyeter.bsky.social",
