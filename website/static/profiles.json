@@ -720,6 +720,14 @@
     "did": "did:plc:cqyt27crybl3dgj6angxbwxz"
   },
   {
+    "title": "Ben Watt",
+    "category": "intune",
+    "bluesky": "benwatt.bsky.social",
+    "twitter": "benwatt",
+    "type": "microsoft",
+    "did": "did:plc:krjfwdnylvkc5jfo6g5rcmsu"
+  },
+  {
     "title": "Bernardo Rodrigues",
     "category": null,
     "bluesky": "bernardofsr.bsky.social",
