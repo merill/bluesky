@@ -3216,6 +3216,14 @@
     "did": "did:plc:chup6jol3io453bs7xjxtnh5"
   },
   {
+    "title": "Jonathan Peppers",
+    "category": "dotnet",
+    "bluesky": "jonathanpeppers.bsky.social",
+    "twitter": "jonathanpeppers",
+    "type": "microsoft",
+    "did": "did:plc:zqe67baglhyed6m7hcn4f6rx"
+  },
+  {
     "title": "Jon Galloway",
     "category": "dotnet",
     "bluesky": "jongalloway.bsky.social",
