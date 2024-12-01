@@ -55,6 +55,7 @@ body:
         - modernwork
         - powershell
         - security
+        - surface
         - windows
         - windows365
     validations:
