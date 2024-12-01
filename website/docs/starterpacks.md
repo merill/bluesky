@@ -25,6 +25,7 @@ Feel free to create your own starter pack and submit a pull request to add it to
 
 * [Microsoft Developer Division](https://bsky.app/starter-pack-short/JuyrK9N) - Folks who are in Dev Div at Microsoft creating frameworks, languages and tools for developers all over the world.
 * [.NET C# Developer Friends (dotnet)](https://bsky.app/starter-pack/woodruff.dev/3laqbohkbeh2d) - Friends that develop in C# and .NET but also touches other Dev communities.
+* [More .NET C# Developer Friends (dotnet)](https://bsky.app/starter-pack/woodruff.dev/3lbpcgesycy24)
 * [WinDev MVPs & Friends](https://bsky.app/starter-pack/tomzorz.me/3ladd3yx62k2z) - Current and former Windows Development Microsoft MVPs, WinDev related Microsoft employees and friends
 * [Blazor - Awesome people talking about Blazor](https://bsky.app/starter-pack/engstromjimmy.bsky.social/3laeduvq7b22u) - Awesome people talking about Blazor.
 * [dotnet pack -c bsky —interactive](https://bsky.app/starter-pack-short/AQZrkaS) - A list of cool people in the #dotnet, tech, and adjacent communities.
