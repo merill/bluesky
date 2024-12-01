@@ -52,6 +52,7 @@ Feel free to create your own starter pack and submit a pull request to add it to
 * [Entra.News Authors](https://bluesky.entra.news) - Starter pack of all the authors and content creators who have been featured on the weekly Entra.News newsletter.
 * [Microsoft Intune Starter Pack](https://bsky.app/starter-pack/jeroen.burgerhout.org/3l7ngjc3oss2t) - You want to know more about Microsoft Intune? In this list you will find a collection of Intune MVP's, Non-MVP's, but also some recommended Intune related events.
 * [Microsoft Cloud Security and Identity](https://bsky.app/starter-pack/jeftek.com/3l6xljuyq2x2j) - Community of people sharing information and discussions focused on Microsoft Security & Identity technologies such as Microsoft Entra,  etc.
+* [Microsoft Intune Communities](https://bsky.app/starter-pack/skotheimsvik.no/3lc3c76fscy2m) - Explore a curated list of top Intune conferences and communities, connecting you with industry experts, networking opportunities, and the latest insights into Microsoft Intune and endpoint management.
 
 ## Microsoft Business Applications
 
