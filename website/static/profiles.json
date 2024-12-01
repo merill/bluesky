@@ -440,6 +440,14 @@
     "did": "did:plc:dunwsebpbcxgvkmtwc4nakt6"
   },
   {
+    "title": "Anthony Shaw",
+    "category": "dev",
+    "bluesky": "anthonypjshaw.bsky.social",
+    "twitter": "anthonypjshaw",
+    "type": "microsoft",
+    "did": "did:plc:tt6eamkfzz5rw3jcbyzy4l2g"
+  },
+  {
     "title": "Anthony Porter",
     "category": null,
     "bluesky": "anthonyporter.bsky.social",
