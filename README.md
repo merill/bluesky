@@ -14,7 +14,7 @@ There are a few different ways to contribute to this project.
 
 #### By submitting an issue (recommended)
 
-This is the easiest way to add a profile and will result in the profile being added to the site in minutes. Use the [New Blueskey profile link](https://github.com/merill/bluesky/issues/new?assignees=&labels=&template=add-profile.yaml&title=New+Bluesky+profile+) issue template to submit a new profile.
+This is the easiest way to add a profile and will result in the profile being added to the site in minutes. Use the [New Blueskey profile link](https://github.com/merill/bluesky/issues/new?assignees=&labels=&projects=&template=add-link.yaml&title=Add+Bluesky+Profile) issue template to submit a new profile.
 
 #### By submitting a pull request (advanced)
 
