@@ -4552,6 +4552,14 @@
     "did": "did:plc:g2xnpgkm64cfjmudv57sftnc"
   },
   {
+    "title": "Matthew John Cheetham",
+    "category": "dev",
+    "bluesky": "mjcheetham.bsky.social",
+    "twitter": "cheethammj",
+    "type": "microsoft",
+    "did": "did:plc:kadry7ncxtz4rqpljonnccrl"
+  },
+  {
     "title": "Mark Ka$hman",
     "category": "microsoft365",
     "bluesky": "mkashman.bsky.social",
