@@ -58,6 +58,7 @@ body:
         - surface
         - windows
         - windows365
+        - exchange
     validations:
       required: false
   - type: dropdown
