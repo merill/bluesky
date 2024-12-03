@@ -14,7 +14,7 @@ jobs:
           $jsonFilesInConfigFolder = Get-ChildItem -Path website\config -Name
           foreach ($file in $jsonFilesInConfigFolder) {
             if ($file.EndsWith(".json")) {
-              $isValidJson = Get-Content $file -Raw | Test-Json
+              $isValidJson = Get-Content website\config\$file -Raw | Test-Json
               if (!$isValidJson) {
                 throw "File $file contains invalid json content"
                 Exit 1
