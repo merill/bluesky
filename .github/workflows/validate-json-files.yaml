@@ -1,6 +1,6 @@
 on:
   pull_request:
-    types: [opened, edited]
+    types: [opened, edited, synchronize]
 
 jobs:
   validate_json_files:
