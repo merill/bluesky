@@ -13,7 +13,7 @@ jobs:
       - name: Execute Test-Json on all changed JSON files
         shell: pwsh
         run: |
-          foreach ($file in ${{ steps.files.outputs.all }}) {
+          foreach ($file in ${{ steps.files.outputs.all }} -split " ") {
             if ($file.EndsWith(".json")) {
               $isValidJson = Get-Content $file -Raw | Test-Json
               if (!$isValidJson) {
