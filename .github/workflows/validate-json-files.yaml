@@ -8,12 +8,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - id: files
-        uses: jitterbit/get-changed-files@v1
-      - name: Execute Test-Json on all changed JSON files
+      - name: Execute Test-Json on all JSON files in website/config
         shell: pwsh
         run: |
-          foreach ($file in ${{ steps.files.outputs.all }} -split " ") {
+          $jsonFilesInConfigFolder = Get-ChildItem -Path website\config -Name
+          foreach ($file in $jsonFilesInConfigFolder) {
             if ($file.EndsWith(".json")) {
               $isValidJson = Get-Content $file -Raw | Test-Json
               if (!$isValidJson) {
