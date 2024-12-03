@@ -4800,6 +4800,14 @@
     "did": "did:plc:afvmylebkzjvrk5ynvwlfoew"
   },
   {
+    "title": "Marthe Moengen",
+    "category": "data",
+    "bluesky": "mmoengen.bsky.social",
+    "twitter": "mmoengen",
+    "type": "mvp",
+    "did": "did:plc:5iurkqsyrniwpqa72jmpq6n6"
+  },
+  {
     "title": "Marc Nahum",
     "category": "intune",
     "bluesky": "mnahum.bsky.social",
