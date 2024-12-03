@@ -80,7 +80,7 @@
     "did": "did:plc:fotpikp4szwpfp4bnnfxhxfa"
   },
   {
-    "title": "Adam ralph",
+    "title": "Adam Ralph",
     "category": "dotnet",
     "bluesky": "adamralph.com",
     "twitter": "adamralph",
@@ -152,6 +152,14 @@
     "did": "did:plc:jbuckzlfzonlpjskenreri3p"
   },
   {
+    "title": "Andy Randall",
+    "category": "azure",
+    "bluesky": "ahrkrak.bsky.social",
+    "twitter": "",
+    "type": "microsoft",
+    "did": "did:plc:f27nlvhkou5nbkr3juqt7rju"
+  },
+  {
     "title": "Aidan Finn",
     "category": "azure",
     "bluesky": "aidanfinn.bsky.social",
@@ -198,6 +206,14 @@
     "twitter": "alexandair",
     "type": "mvp",
     "did": "did:plc:qsso3aixn7gug6her5uu3e5o"
+  },
+  {
+    "title": "Alexander Meijers",
+    "category": "ai",
+    "bluesky": "alexandermeijers.bsky.social",
+    "twitter": "",
+    "type": "mvp",
+    "did": "did:plc:dbpvzkiaik3can742tgfwg2u"
   },
   {
     "title": "Alex Chrostowski",
@@ -339,7 +355,7 @@
     "title": "Andrew Connell",
     "category": "microsoft365",
     "bluesky": "andrewconnell.com",
-    "twitter": "andrewconnell",
+    "twitter": "",
     "type": "mvp",
     "did": "did:plc:wqrd5dcowa6prnww4jcgyfbb"
   },
@@ -456,6 +472,14 @@
     "did": "did:plc:d6hm252qo2fhlc3kkeyk33zv"
   },
   {
+    "title": "Albert-Jan Schot",
+    "category": null,
+    "bluesky": "appieschot.bsky.social",
+    "twitter": "",
+    "type": "None",
+    "did": "did:plc:jd6n3z43u3gpg3qtr6awpbyl"
+  },
+  {
     "title": "April Dunnam",
     "category": "businessapps",
     "bluesky": "aprildunnam.bsky.social",
@@ -470,6 +494,14 @@
     "twitter": "apuleston",
     "type": "None",
     "did": "did:plc:ypvewxdalevu5s2yh3cbmaob"
+  },
+  {
+    "title": "Alexander Arvidsson",
+    "category": "data",
+    "bluesky": "arcticdba.se",
+    "twitter": "",
+    "type": "mvp",
+    "did": "did:plc:juklehayotzmm52nhk2g64vd"
   },
   {
     "title": "Ardalis",
@@ -676,7 +708,7 @@
     "category": null,
     "bluesky": "beckmann.tech",
     "twitter": "alphasteff",
-    "type": "None",
+    "type": "mvp",
     "did": "did:plc:7ih7w7dyoopuaqtjgp5oqnnb"
   },
   {
@@ -832,6 +864,14 @@
     "did": "did:plc:qruuvdi66zvnldzsvvynoln2"
   },
   {
+    "title": "Cliff Fisher",
+    "category": "windows",
+    "bluesky": "brd.bsky.social",
+    "twitter": "brdpoker",
+    "type": "microsoft",
+    "did": "did:plc:joxuj5d2is6fs3g6ss4vey5e"
+  },
+  {
     "title": "Brenda Hidalgo",
     "category": null,
     "bluesky": "brendahidalgo.bsky.social",
@@ -984,6 +1024,14 @@
     "did": "did:plc:xbw4ippkcrqleyh42eo57gsh"
   },
   {
+    "title": "Cedric Vidal",
+    "category": "ai",
+    "bluesky": "cedricvidal.bsky.social",
+    "twitter": "cedricvidal",
+    "type": "microsoft",
+    "did": "did:plc:j5eknnwidckc2nw2kgze6qhn"
+  },
+  {
     "title": "Christopher Gill",
     "category": "azure",
     "bluesky": "cfgcloud.io",
@@ -1022,6 +1070,14 @@
     "twitter": "",
     "type": "None",
     "did": "did:plc:s63yatgcqyovwkcixbonte5o"
+  },
+  {
+    "title": "Chris Ayers",
+    "category": "dev",
+    "bluesky": "chris-ayers.com",
+    "twitter": "chris_l_ayers",
+    "type": "microsoft",
+    "did": "did:plc:xhlfcmyns4dxbizjjm6q4ra3"
   },
   {
     "title": "Chris Huff",
@@ -1302,14 +1358,6 @@
     "twitter": "damianm",
     "type": "None",
     "did": "did:plc:bacanohv7zlatszghmvkzgdg"
-  },
-  {
-    "title": "Damien Bowden",
-    "category": "dotnet",
-    "bluesky": "damienbod.bsky.social",
-    "twitter": "",
-    "type": "mvp",
-    "did": "did:plc:74evh6nlvnbawstd25fazmz4"
   },
   {
     "title": "Damien Bowden",
@@ -1920,6 +1968,14 @@
     "did": "did:plc:fezkdevpqiudofe2ynczve5n"
   },
   {
+    "title": "Ian Spence",
+    "category": "security",
+    "bluesky": "ecn.io",
+    "twitter": "ecnepsnai",
+    "type": "microsoft",
+    "did": "did:plc:hziislrqngwrgfbgeonckihb"
+  },
+  {
     "title": "Edem Kumodzi 🇬🇭🇹🇬",
     "category": null,
     "bluesky": "edemkumodzi.com",
@@ -1958,6 +2014,14 @@
     "twitter": "mderooij",
     "type": "mvp",
     "did": "did:plc:ym2gedhhll5ihj2ldqmdm7vn"
+  },
+  {
+    "title": "Bruno Capuano ",
+    "category": "ai",
+    "bluesky": "elbruno.com",
+    "twitter": "htpps://twitter.com/elbruno",
+    "type": "microsoft",
+    "did": "did:plc:yl6wisvgmekpqg52wekxyvlz"
   },
   {
     "title": "Eldert Grootenboer",
@@ -2264,6 +2328,14 @@
     "did": "did:plc:7qqghsbc4oosm57g5sirdrkm"
   },
   {
+    "title": "Gavin Barron",
+    "category": "dev",
+    "bluesky": "gavinb.net",
+    "twitter": "gavinbarron",
+    "type": "microsoft",
+    "did": "did:plc:nodsijpzaywderjd4uzmasdr"
+  },
+  {
     "title": "Geert Baeke",
     "category": "ai",
     "bluesky": "geertbaeke.bsky.social",
@@ -2344,6 +2416,14 @@
     "did": "did:plc:dckepsddrqipaxrs4jaqkkrx"
   },
   {
+    "title": "Gioxx\r",
+    "category": null,
+    "bluesky": "gioxx.org",
+    "twitter": "gioxx",
+    "type": "None",
+    "did": "did:plc:yapnxnpswwhj6dvxqrdz7jqe"
+  },
+  {
     "title": "Jess (GirlGerms) Dodson",
     "category": "security",
     "bluesky": "girlgerms.wtf",
@@ -2401,10 +2481,10 @@
   },
   {
     "title": "Guillaume D",
-    "category": null,
+    "category": "azure",
     "bluesky": "guillaumed.bsky.social",
     "twitter": "@gdx_o_o",
-    "type": "None",
+    "type": "microsoft",
     "did": "did:plc:t5u7foayzkp5qc5uu5hehiwz"
   },
   {
@@ -3025,7 +3105,7 @@
   },
   {
     "title": "Jeroen Burgerhout ",
-    "category": null,
+    "category": "intune",
     "bluesky": "jeroen.burgerhout.org",
     "twitter": "burgerhoutj",
     "type": "mvp",
@@ -3062,6 +3142,14 @@
     "twitter": "jgkps",
     "type": "mvp",
     "did": "did:plc:mt2if6rcohf2hy4ap6ysdfqe"
+  },
+  {
+    "title": "Joseph Guadagno ",
+    "category": "dev",
+    "bluesky": "jguadagno.com",
+    "twitter": "jguadagno",
+    "type": "mvp",
+    "did": "did:plc:zrubh7flxwdxfyxeu7b47rei"
   },
   {
     "title": "Stefan Johner",
@@ -3280,6 +3368,14 @@
     "did": "did:plc:5un6t7hz6gr4bbtj7udh5s3z"
   },
   {
+    "title": "Jordan Matthiesen",
+    "category": "dotnet",
+    "bluesky": "jordanmatthiesen.me",
+    "twitter": "jmatthiesen",
+    "type": "microsoft",
+    "did": "did:plc:mj2nlawg6gfzo7usmu2gk7fs"
+  },
+  {
     "title": "Jorge Lopez",
     "category": "security",
     "bluesky": "jorlop.bsky.social",
@@ -3302,6 +3398,14 @@
     "twitter": "jpomfret",
     "type": "mvp",
     "did": "did:plc:b4wi5dqywlknrgg7ofmczq2z"
+  },
+  {
+    "title": "Jeremy Thake",
+    "category": "microsoft365",
+    "bluesky": "jthake.bsky.social",
+    "twitter": "jthake",
+    "type": "microsoft",
+    "did": "did:plc:g5spvdhudhsmartc2bijae5y"
   },
   {
     "title": "Jenn&Tonic",
@@ -3776,6 +3880,14 @@
     "did": "did:plc:go4w2vwwodwvztuzgcoql2y6"
   },
   {
+    "title": "Lee Stott",
+    "category": "ai",
+    "bluesky": "leestott.bsky.social",
+    "twitter": "lee_stott",
+    "type": "microsoft",
+    "did": "did:plc:zi6y5fikl576ir2637wrnzhl"
+  },
+  {
     "title": "David Lemson",
     "category": null,
     "bluesky": "lemson.com",
@@ -3936,6 +4048,14 @@
     "did": "did:plc:znu2z66jdvjfz4sh5wcp2tq6"
   },
   {
+    "title": "Matthew van Eerde",
+    "category": "windows",
+    "bluesky": "m-vaneerde.bsky.social",
+    "twitter": "mvaneerde",
+    "type": "microsoft",
+    "did": "did:plc:bb7efqm6jl6fpgozdac5cm2f"
+  },
+  {
     "title": "Mohamed AbuMuslim (أبومُسْلِم)",
     "category": "security",
     "bluesky": "m19o.bsky.social",
@@ -3966,6 +4086,14 @@
     "twitter": "maarteneekels",
     "type": "mvp",
     "did": "did:plc:kjsl33hjq2dzooz6m6v45cj4"
+  },
+  {
+    "title": "Maarten Balliauw",
+    "category": null,
+    "bluesky": "maartenballiauw.be",
+    "twitter": "maartenballiauw",
+    "type": "None",
+    "did": "did:plc:6wsq36n2zjsnkewuciysvq6f"
   },
   {
     "title": "Rutger Truyers",
@@ -4110,6 +4238,30 @@
     "twitter": "michael_mardahl",
     "type": "mvp",
     "did": "did:plc:4mf73mf65lhu63deqiuyhxfw"
+  },
+  {
+    "title": "Mario De Ridder",
+    "category": "intune",
+    "bluesky": "marioderidder.bsky.social",
+    "twitter": "",
+    "type": "microsoft",
+    "did": "did:plc:5xun6fpivwb5bsclr5otumbu"
+  },
+  {
+    "title": "Mario Hewardt",
+    "category": "azure",
+    "bluesky": "mariohewardt.bsky.social",
+    "twitter": "mariohewardt",
+    "type": "microsoft",
+    "did": "did:plc:tpptuli5md4kqp2x55uglsxb"
+  },
+  {
+    "title": "Mario Hewardt",
+    "category": "dotnet",
+    "bluesky": "mariohewardt.me",
+    "twitter": "mariohewardt",
+    "type": "microsoft",
+    "did": "did:plc:tpptuli5md4kqp2x55uglsxb"
   },
   {
     "title": "Mark Simos",
@@ -4264,6 +4416,14 @@
     "did": "did:plc:633fhlzeq5dtlld5xp73hszr"
   },
   {
+    "title": "Matt Leirdahl",
+    "category": null,
+    "bluesky": "matt.leirdahl.com",
+    "twitter": "",
+    "type": "None",
+    "did": "did:plc:jbo4ldqsmyfoitnlgorw74g4"
+  },
+  {
     "title": "Matthew Levy",
     "category": "security",
     "bluesky": "mattchatt.bsky.social",
@@ -4350,6 +4510,14 @@
     "twitter": "mcorrado82",
     "type": "microsoft",
     "did": "did:plc:2gbyc6rfq7nndwy5ae3mdcmz"
+  },
+  {
+    "title": "Megan V. Walker",
+    "category": "businessapps",
+    "bluesky": "meganvwalker.com",
+    "twitter": "",
+    "type": "mvp",
+    "did": "did:plc:65pepf75ra22hadqsw5i44ax"
   },
   {
     "title": "MEM Summit",
@@ -4584,6 +4752,14 @@
     "did": "did:plc:bmyyms6dzpxdowhbxmgoyuui"
   },
   {
+    "title": "Megan Gremmell",
+    "category": "windows365",
+    "bluesky": "mmeggremm.bsky.social",
+    "twitter": "megahoch",
+    "type": "microsoft",
+    "did": "did:plc:zlicj7xnqranl477ebav6qxo"
+  },
+  {
     "title": "Mattias Melkersen",
     "category": "intune",
     "bluesky": "mmelkersen.bsky.social",
@@ -4662,6 +4838,14 @@
     "twitter": "mountgellert",
     "type": "mvp",
     "did": "did:plc:g2ooqbjnxuwatleytaxp5bk2"
+  },
+  {
+    "title": "Martin Heusser",
+    "category": "microsoft365",
+    "bluesky": "mozzeph.bsky.social",
+    "twitter": "mozzeph",
+    "type": "mvp",
+    "did": "did:plc:5beozoalslgwf4y5gno6e44i"
   },
   {
     "title": "Matti Paukkonen",
@@ -4832,6 +5016,14 @@
     "did": "did:plc:cbkjy5n7bk3ax2wplmtjofq2"
   },
   {
+    "title": "Nick Guerrera",
+    "category": "dotnet",
+    "bluesky": "nguerrera.dev",
+    "twitter": "nick_guerrera",
+    "type": "microsoft",
+    "did": "did:plc:3mrfrdwo765teagxibliqune"
+  },
+  {
     "title": "Nicola Ferrini",
     "category": "intune",
     "bluesky": "nicferr.bsky.social",
@@ -4870,6 +5062,14 @@
     "twitter": "ndewestelinck",
     "type": "None",
     "did": "did:plc:dz7ltpfvlm6vnm6x5j3d6mbn"
+  },
+  {
+    "title": "Nicky van Vroenhoven",
+    "category": "data",
+    "bluesky": "nickyvv.bsky.social",
+    "twitter": "https://www.twitter.com/nickyvv",
+    "type": "mvp",
+    "did": "did:plc:2a5q3t4pgk3zhctyf4uxlhel"
   },
   {
     "title": "Nico De Cleyre",
@@ -4950,6 +5150,14 @@
     "twitter": "ng_fl75742",
     "type": "None",
     "did": "did:plc:7mj7ydetiawb2je7ootfo4qh"
+  },
+  {
+    "title": "David Smith",
+    "category": "ai",
+    "bluesky": "nonfamous.bsky.social",
+    "twitter": "revodavid",
+    "type": "microsoft",
+    "did": "did:plc:x7yy2hlona2ec6tlpypbjksu"
   },
   {
     "title": "Nikolaus Pohle",
@@ -5234,7 +5442,7 @@
   {
     "title": "Pieter de Bruin ",
     "category": null,
-    "bluesky": "pdebruin.bsky.social",
+    "bluesky": "pdebruin.org",
     "twitter": "pieter_de_bruin",
     "type": "microsoft",
     "did": "did:plc:k252lurdbddlpsqn32s2tztn"
@@ -5270,6 +5478,14 @@
     "twitter": "perksey",
     "type": "mvp",
     "did": "did:plc:cfsoqw6wefsthblpddedyhcx"
+  },
+  {
+    "title": "Peter Gallagher",
+    "category": "azure",
+    "bluesky": "petecodes.co.uk",
+    "twitter": "pete_codes",
+    "type": "mvp",
+    "did": "did:plc:zjkbpu2sryqezlxtrtaffeuw"
   },
   {
     "title": "Peter Klapwijk | In The Cloud 24-7",
@@ -5494,6 +5710,14 @@
     "twitter": "qmatteoq",
     "type": "microsoft",
     "did": "did:plc:yuqo6bp6ojl7edp4uw2vhnjc"
+  },
+  {
+    "title": "Lucas Magoni",
+    "category": null,
+    "bluesky": "racetocloud.com",
+    "twitter": "racetocloud",
+    "type": "None",
+    "did": "did:plc:bemcthuzhbxfp4vtbtci757v"
   },
   {
     "title": "Ragnar Heil, MVP",
@@ -5842,7 +6066,7 @@
   {
     "title": "Marc Rufer",
     "category": "dev",
-    "bluesky": "rufer7.bsky.social",
+    "bluesky": "rufer.be",
     "twitter": "",
     "type": "mvp",
     "did": "did:plc:farfgp32cbgebhorh5lgmrmd"
@@ -5906,7 +6130,7 @@
   {
     "title": "Sam Rueby",
     "category": null,
-    "bluesky": "samrueby.bsky.social",
+    "bluesky": "samrueby.com",
     "twitter": "samrueby",
     "type": "None",
     "did": "did:plc:pe4anymmivig5g4gxjtwjdto"
@@ -6136,6 +6360,14 @@
     "did": "did:plc:otdtpurzlasoaln53km3nu4v"
   },
   {
+    "title": "Sergey Tihon",
+    "category": "dotnet",
+    "bluesky": "sergeytihon.com",
+    "twitter": "sergey_tihon",
+    "type": "mvp",
+    "did": "did:plc:enj4ssqkcnlqvc4hw5agqowk"
+  },
+  {
     "title": "Sevcan Asilkan",
     "category": null,
     "bluesky": "sevcanasilkan.bsky.social",
@@ -6150,6 +6382,14 @@
     "twitter": "sfennah",
     "type": "mvp",
     "did": "did:plc:mwqrrhvkypx7sksjls76kqrk"
+  },
+  {
+    "title": "Shannon Lindsay",
+    "category": "data",
+    "bluesky": "shan-gsd.bsky.social",
+    "twitter": "shan_gsd",
+    "type": "microsoft",
+    "did": "did:plc:3iybjzrxrptokh4cjfyzryea"
   },
   {
     "title": "Shaun Wilkinson",
@@ -6528,6 +6768,14 @@
     "did": "did:plc:j5su4x227oin2jgnp6khd7fq"
   },
   {
+    "title": "Susan Cockrell",
+    "category": "microsoft365",
+    "bluesky": "susancockrell.bsky.social",
+    "twitter": "susanwcockrell",
+    "type": "microsoft",
+    "did": "did:plc:w56oz5wsvmh63ex36niiuv6i"
+  },
+  {
     "title": "Suzanne Daniels",
     "category": "dev",
     "bluesky": "suuu.us",
@@ -6617,10 +6865,10 @@
   },
   {
     "title": "Alexandre Nédélec",
-    "category": null,
+    "category": "azure",
     "bluesky": "techwatching.bsky.social",
     "twitter": "techwatching",
-    "type": "None",
+    "type": "mvp",
     "did": "did:plc:5xpnnlfa4zojegnk6awazgbx"
   },
   {
@@ -6662,6 +6910,14 @@
     "twitter": "terryjlynch",
     "type": "microsoft",
     "did": "did:plc:vsevlcj67v4xp6xmio3sakww"
+  },
+  {
+    "title": "Tetsuya Kawahara",
+    "category": "microsoft365",
+    "bluesky": "tetsuya-kawahara.bsky.social",
+    "twitter": "techan_k",
+    "type": "mvp",
+    "did": "did:plc:mw5ligxi6s2jvmh22qk7hswb"
   },
   {
     "title": "Teddy Herryanto",
@@ -6761,10 +7017,10 @@
   },
   {
     "title": "Tiago Costa",
-    "category": null,
+    "category": "azure",
     "bluesky": "tiagocosta.bsky.social",
     "twitter": "tiagocostapt",
-    "type": "None",
+    "type": "mvp",
     "did": "did:plc:3rbs2ol7robzxtqgs44ewnny"
   },
   {
@@ -7102,6 +7358,14 @@
     "twitter": "waldekm",
     "type": "microsoft",
     "did": "did:plc:t3bmctdc2rutnfarqt2zipt6"
+  },
+  {
+    "title": "woanware",
+    "category": "security",
+    "bluesky": "woany.bsky.social",
+    "twitter": "woanware",
+    "type": "microsoft",
+    "did": "did:plc:kigtjoalrqsq7fbvhgjtmmn6"
   },
   {
     "title": "Phil Worrell",
