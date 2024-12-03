@@ -18,6 +18,7 @@ jobs:
               $isValidJson = Get-Content $file -Raw | Test-Json
               if (!$isValidJson) {
                 throw "File $file contains invalid json content"
+                Exit 1
               }
             }
           }
