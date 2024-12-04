@@ -1,0 +1,23 @@
+on:
+  pull_request:
+    types: [opened, edited, synchronize]
+
+jobs:
+  validate_json_files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Execute Test-Json on all JSON files in website/config
+        shell: pwsh
+        run: |
+          $jsonFilesInConfigFolder = Get-ChildItem -Path website\config -Name
+          foreach ($file in $jsonFilesInConfigFolder) {
+            if ($file.EndsWith(".json")) {
+              $isValidJson = Get-Content website\config\$file -Raw | Test-Json -ErrorAction Continue
+              if (!$isValidJson) {
+                throw "File $file contains invalid json content"
+                Exit 1
+              }
+            }
+          }
