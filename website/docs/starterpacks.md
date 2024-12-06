@@ -30,6 +30,7 @@ Feel free to create your own starter pack and submit a pull request to add it to
 * [WinDev MVPs & Friends](https://bsky.app/starter-pack/tomzorz.me/3ladd3yx62k2z) - Current and former Windows Development Microsoft MVPs, WinDev related Microsoft employees and friends
 * [Blazor - Awesome people talking about Blazor](https://bsky.app/starter-pack/engstromjimmy.bsky.social/3laeduvq7b22u) - Awesome people talking about Blazor.
 * [dotnet pack -c bsky —interactive](https://bsky.app/starter-pack-short/AQZrkaS) - A list of cool people in the #dotnet, tech, and adjacent communities.
+* [.NET MAUI Developers by ‪@thewissen.io‬](https://bsky.app/starter-pack-short/CuMKHtE) - The .NET MAUI family on BlueSky 🏝️🦋
 
 ## Azure
 
