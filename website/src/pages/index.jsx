@@ -40,10 +40,9 @@ export default function Start() {
               <h1 className="title text-center">
               <span className="topBannerTitleText_Ferb">Follow and reconnect with the Microsoft community on Bluesky!</span>
               </h1>
-                <p className="text-center">🗣️ Want to find your Microsoft community on Bluesky? Use this community contributed list of Bluesky profiles to find and follow!</p>
+                <p className="text-center">This site is now archived!</p>
                   
-                <p className="text-center">Use the Add button below to submit new profiles to this list. Don't have a Bluesky account? Sign up at <a href='https://bsky.app/'>bsky.app</a></p>
-                <p className="text-center"><a href='https://bsky.app/profile/merill.net'>Follow merill on Bluesky</a> for the latest updates on this project and check out the <a href='/starterpacks'>Microsoft Starter Packs</a>.</p>
+                <p className="text-center">Please visit the new site at <a href='https://bluesky.ms'>bluesky.ms</a>  </p>
             </div>
             <div className="col col--offset-0">
               <CommandsTable columns={columns} data={commands} applyFilter="" />
