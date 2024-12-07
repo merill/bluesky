@@ -1,73 +1,73 @@
-name: Add new Bluesky profile
-description: Use this form to submit a Bluesky profile to bluesky.ms so we can discover each other easily.
-title: "Add Bluesky Profile"
-body:
-  - type: markdown
-    attributes:
-      value: |
-        🙏 Thank you for taking the time to submit a new Bluesky profile to the [bluesky.ms](https://bluesky.ms) crowd sourced database!
+# name: Add new Bluesky profile
+# description: Use this form to submit a Bluesky profile to bluesky.ms so we can discover each other easily.
+# title: "Add Bluesky Profile"
+# body:
+#   - type: markdown
+#     attributes:
+#       value: |
+#         🙏 Thank you for taking the time to submit a new Bluesky profile to the [bluesky.ms](https://bluesky.ms) crowd sourced database!
         
-        We welcome all types of Bluesky profiles to this database related to the Microsoft community. From Microsoft IT admins, devs to authors, Microsoft Partners, MVPs and Microsoft employees.
-        Let's make it easier to find and follow each other so we can share, learn and grow as a community.
+#         We welcome all types of Bluesky profiles to this database related to the Microsoft community. From Microsoft IT admins, devs to authors, Microsoft Partners, MVPs and Microsoft employees.
+#         Let's make it easier to find and follow each other so we can share, learn and grow as a community.
 
-        A few notes:
-        * You are welcome to submit your profile and the profile of others you know.
-        * It will take a few minutes after you submit for the profile to appear on [bluesky.ms](https://bluesky.ms).
-        * Submit a pull request to make advanced edits such as updating the title or deleting an entry. See [Contributing](https://github.com/merill/bluesky#contributing) for details.
-  - type: input
-    id: title
-    attributes:
-      label: Title
-      description: The name as shown in the Bluesky profile
-      placeholder: ex. Merill Fernando
-    validations:
-      required: true
-  - type: input
-    id: bluesky
-    attributes:
-      label: Bluesky profile url
-      description: To find your url browse to your profile in the Bluesky app, select `...` → `Share` and copy the url. If you are submitting for another person, click their profile and copy the url from their profile page.
-      placeholder: ex. https://bsky.app/profile/john.bsky.social
-    validations:
-      required: true
-  - type: input
-    id: twitter
-    attributes:
-      label: Twitter profile (url or username)
-      description: Twitter profile of this Bluesky user. Helps folks migrating from Twitter to Bluesky to find the folks they were following previously.
-      placeholder: ex. merill or https://x.com/merill
-    validations:
-      required: false
-  - type: dropdown
-    id: category
-    attributes:
-      label: Category
-      description: Choose the most appropriate topic or product the Bluesky user is known for or choose `None` if a specific category is not applicable. To add a new category, edit [this file](https://github.com/merill/bluesky/edit/main/.github/ISSUE_TEMPLATE/add-link.yaml) and submit a pull request.
-      options:
-        - ai
-        - azure
-        - dev
-        - data
-        - dotnet
-        - businessapps
-        - intune
-        - microsoft365
-        - modernwork
-        - powershell
-        - security
-        - surface
-        - windows
-        - windows365
-        - exchange
-    validations:
-      required: false
-  - type: dropdown
-    id: typ
-    attributes:
-      label: Type
-      description: Does this profile belong to a Microsoft employee or MVP?
-      options:
-        - microsoft
-        - mvp
-    validations:
-      required: false
+#         A few notes:
+#         * You are welcome to submit your profile and the profile of others you know.
+#         * It will take a few minutes after you submit for the profile to appear on [bluesky.ms](https://bluesky.ms).
+#         * Submit a pull request to make advanced edits such as updating the title or deleting an entry. See [Contributing](https://github.com/merill/bluesky#contributing) for details.
+#   - type: input
+#     id: title
+#     attributes:
+#       label: Title
+#       description: The name as shown in the Bluesky profile
+#       placeholder: ex. Merill Fernando
+#     validations:
+#       required: true
+#   - type: input
+#     id: bluesky
+#     attributes:
+#       label: Bluesky profile url
+#       description: To find your url browse to your profile in the Bluesky app, select `...` → `Share` and copy the url. If you are submitting for another person, click their profile and copy the url from their profile page.
+#       placeholder: ex. https://bsky.app/profile/john.bsky.social
+#     validations:
+#       required: true
+#   - type: input
+#     id: twitter
+#     attributes:
+#       label: Twitter profile (url or username)
+#       description: Twitter profile of this Bluesky user. Helps folks migrating from Twitter to Bluesky to find the folks they were following previously.
+#       placeholder: ex. merill or https://x.com/merill
+#     validations:
+#       required: false
+#   - type: dropdown
+#     id: category
+#     attributes:
+#       label: Category
+#       description: Choose the most appropriate topic or product the Bluesky user is known for or choose `None` if a specific category is not applicable. To add a new category, edit [this file](https://github.com/merill/bluesky/edit/main/.github/ISSUE_TEMPLATE/add-link.yaml) and submit a pull request.
+#       options:
+#         - ai
+#         - azure
+#         - dev
+#         - data
+#         - dotnet
+#         - businessapps
+#         - intune
+#         - microsoft365
+#         - modernwork
+#         - powershell
+#         - security
+#         - surface
+#         - windows
+#         - windows365
+#         - exchange
+#     validations:
+#       required: false
+#   - type: dropdown
+#     id: typ
+#     attributes:
+#       label: Type
+#       description: Does this profile belong to a Microsoft employee or MVP?
+#       options:
+#         - microsoft
+#         - mvp
+#     validations:
+#       required: false
